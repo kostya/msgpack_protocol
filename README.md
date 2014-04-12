@@ -2,6 +2,7 @@
 Msgpack protocol for eventmachine
 
 Install:
+
     gem install msgpack_protocol
 
 Usage:
